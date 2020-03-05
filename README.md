@@ -12,6 +12,7 @@ Become familiar with the major technical approaches involved in computer vision.
 Get an exposure to advanced concepts, including state of the art deep learning architectures, in all aspects of computer vision.
 Build computer vision applications with python and the pytorch framework.
 
+### Course Projects . 
 * proj 1: Images as Functions  
 * Proj 2: Detecting Lines and Circles using Hough Transform . 
 * Proj 3: Local Feature Matching . 
