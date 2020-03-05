@@ -18,4 +18,5 @@ Build computer vision applications with python and the pytorch framework.
 * Proj 3: Local Feature Matching . 
 * Proj 4: Camera Parameter Estimation . 
 * Proj 5:  TBD . 
-* Proj 6:  TBD . 
+* Proj 6:  TBD .
+* Proj 7:  TBD .
