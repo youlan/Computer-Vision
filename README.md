@@ -17,6 +17,4 @@ Build computer vision applications with python and the pytorch framework.
 * Proj 2: Detecting Lines and Circles using Hough Transform . 
 * Proj 3: Local Feature Matching . 
 * Proj 4: Camera Parameter Estimation . 
-* Proj 5:  TBD . 
-* Proj 6:  TBD .
-* Proj 7:  TBD .
+
